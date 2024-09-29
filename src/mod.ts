@@ -1,4 +1,4 @@
-const FLOAT_DIVISOR = 0x7fffffff; // 2^31 - 1
+const FLOAT_DIVISOR = 0xffffffff;
 
 /**
  * Represents a Xorshift32 pseudo-random number generator.
